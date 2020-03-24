@@ -1,0 +1,15 @@
+/home/bruna.leiras/dev/netcore/netcore-produtos-rest/bin/Debug/netcoreapp3.1/netcore-produtos-rest
+/home/bruna.leiras/dev/netcore/netcore-produtos-rest/bin/Debug/netcoreapp3.1/netcore-produtos-rest.deps.json
+/home/bruna.leiras/dev/netcore/netcore-produtos-rest/bin/Debug/netcoreapp3.1/netcore-produtos-rest.runtimeconfig.json
+/home/bruna.leiras/dev/netcore/netcore-produtos-rest/bin/Debug/netcoreapp3.1/netcore-produtos-rest.runtimeconfig.dev.json
+/home/bruna.leiras/dev/netcore/netcore-produtos-rest/bin/Debug/netcoreapp3.1/netcore-produtos-rest.dll
+/home/bruna.leiras/dev/netcore/netcore-produtos-rest/bin/Debug/netcoreapp3.1/netcore-produtos-rest.pdb
+/home/bruna.leiras/dev/netcore/netcore-produtos-rest/obj/Debug/netcoreapp3.1/netcore-produtos-rest.csprojAssemblyReference.cache
+/home/bruna.leiras/dev/netcore/netcore-produtos-rest/obj/Debug/netcoreapp3.1/netcore-produtos-rest.csproj.CoreCompileInputs.cache
+/home/bruna.leiras/dev/netcore/netcore-produtos-rest/obj/Debug/netcoreapp3.1/netcore-produtos-rest.AssemblyInfoInputs.cache
+/home/bruna.leiras/dev/netcore/netcore-produtos-rest/obj/Debug/netcoreapp3.1/netcore-produtos-rest.AssemblyInfo.cs
+/home/bruna.leiras/dev/netcore/netcore-produtos-rest/obj/Debug/netcoreapp3.1/netcore-produtos-rest.dll
+/home/bruna.leiras/dev/netcore/netcore-produtos-rest/obj/Debug/netcoreapp3.1/netcore-produtos-rest.pdb
+/home/bruna.leiras/dev/netcore/netcore-produtos-rest/obj/Debug/netcoreapp3.1/netcore-produtos-rest.genruntimeconfig.cache
+/home/bruna.leiras/dev/netcore/netcore-produtos-rest/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/bruna.leiras/dev/netcore/netcore-produtos-rest/obj/Debug/netcoreapp3.1/netcore-produtos-rest.csproj.CopyComplete

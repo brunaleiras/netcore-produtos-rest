@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CiCijy4p6MehRRwXCA00PoeETNPZUiSkzIDA46v3du9ygP7GdC/ftS0yKCe8IazyKAF2Ma+x2W1C6Kw4/Zdh3Q==",
+  "success": true,
+  "projectFilePath": "/home/bruna.leiras/dev/netcore/netcore-produtos-rest/netcore-produtos-rest.csproj",
+  "expectedPackageFiles": [
+    "/home/bruna.leiras/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
